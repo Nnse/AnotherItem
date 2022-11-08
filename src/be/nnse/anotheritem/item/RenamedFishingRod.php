@@ -14,7 +14,6 @@ class RenamedFishingRod extends CustomDurable
         parent::__construct(
             ItemIds::FISHING_ROD,
             20,
-            "anotheritem:renamed_fishing_rod",
             "Renamed Fishing Rod"
         );
     }

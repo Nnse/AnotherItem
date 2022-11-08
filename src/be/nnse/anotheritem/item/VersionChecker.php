@@ -15,7 +15,6 @@ class VersionChecker extends CommandItem
             ItemIds::STICK,
             20,
             "version",
-            "anotheritem:version_checker",
             "Check Server Version"
         );
     }

@@ -18,7 +18,6 @@ class EnderCrystalBall extends CustomProjectileItem
         parent::__construct(
             ItemIds::END_CRYSTAL,
             20,
-            "anotheritem:ender_crystal_ball",
             "Ender Crystal Ball"
         );
     }

@@ -16,10 +16,7 @@ class SnowballBow extends CustomBow
 {
     public function __construct()
     {
-        parent::__construct(
-            "anotheritem:snowball_bow",
-            "Snowball Bow"
-        );
+        parent::__construct("Snowball Bow");
     }
 
     protected function getSourceEntity(Location $ejectLocation, Entity $shooter, bool $critical) : Projectile

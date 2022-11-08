@@ -19,7 +19,6 @@ class RenamedGoldenAxe extends CustomTieredTool
             ItemIds::GOLD_AXE,
             0,
             ToolTier::GOLD(),
-            "anotheritem:renamed_golden_axe",
             "Renamed Golden Axe"
         );
     }

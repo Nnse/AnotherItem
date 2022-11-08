@@ -21,7 +21,6 @@ class PositionStorage extends FunctionalItem
         parent::__construct(
             ItemIds::CLOCK,
             20,
-            "anotheritem:position_storage",
             "Position Storage",
         );
     }

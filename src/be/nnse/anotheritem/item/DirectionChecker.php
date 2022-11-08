@@ -15,7 +15,6 @@ class DirectionChecker extends FunctionalItem
         parent::__construct(
             ItemIds::COMPASS,
             20,
-            "anotheritem:direction_checker",
             "Direction Checker",
             [ "RMB: Japanese", "LMB: English" ]
         );

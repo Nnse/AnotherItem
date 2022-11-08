@@ -16,7 +16,6 @@ class GoldenCarrotEnchanted extends CustomFood
         parent::__construct(
             ItemIds::GOLDEN_CARROT,
             20,
-            "anotheritem:golden_carrot_enchanted",
             "Golden Carrot Enchanted"
         );
     }
